@@ -2,9 +2,9 @@ This iOS application demonstrates multithreading by downloading three random ima
 
 🔧 Features:
 
-Downloads 3 images simultaneously using multithreading
-Shows real-time progress bars for each image
-Clean and responsive UI
-Demonstrates safe main-thread UI updates
+* Downloads 3 images simultaneously using multithreading
+* Shows real-time progress bars for each image
+* Demonstrates safe main-thread UI updates
+
 🧪 Note:
 For testing purposes, image URLs are fetched directly from public sources. No Google API or scraping is used.
